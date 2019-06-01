@@ -1,0 +1,13 @@
+{
+  "name": "mac-headphones",
+  "version": "2019.5.6",
+  "description": "detect if headphones are plugged",
+  "keywords": [
+    "headphones"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/mac-headphones",
+  "license": "Unlicense",
+  "bin": {
+    "headphones": "./scripts/headphones"
+  }
+}
