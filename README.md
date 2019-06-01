@@ -19,7 +19,7 @@ $ [sudo] pip install mac-headphones
 #### Scripts usage
 command|`usage`
 -|-
-`headphones` |`0`
+`headphones` |`usage: headphones`
 
 #### Examples
 plugged:
